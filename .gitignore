@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.tgz
+.claude
+DS_Store
+.idea
+.mcp.json
