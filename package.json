@@ -8,6 +8,9 @@
   "bin": {
     "yapi-mcp-server": "./dist/index.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist",
     "README.md",
