@@ -1,5 +1,7 @@
 # YAPI MCP Server
 
+[中文文档](./README.zh-CN.md)
+
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server for reading YAPI API documentation. Enables LLM clients (Claude Code, Cursor, etc.) to browse and inspect YAPI project interfaces.
 
 ## Features
