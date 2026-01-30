@@ -1,6 +1,6 @@
 {
   "name": "@zhuxian/yapi-mcp-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "MCP server for reading YAPI API documentation",
   "type": "module",
   "main": "dist/index.js",
@@ -39,7 +39,7 @@
   },
   "author": "zhuxian",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.12.0",
+    "@modelcontextprotocol/sdk": "^1.25.0",
     "zod": "^3.24.0"
   },
   "devDependencies": {
